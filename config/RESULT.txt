@@ -1,0 +1,6 @@
+NULL
+NULL
+bool(true)
+string(5) "test1"
+bool(true)
+string(5) "test2"

@@ -1,0 +1,6 @@
+bool(true)
+bool(true)
+bool(true)
+string(9) "Testtitel"
+string(8) "Testname"
+string(8) "Testtext"
