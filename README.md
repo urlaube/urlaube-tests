@@ -30,6 +30,6 @@ This test checks the functionality of the `Content` core class, namely getting a
 ### Debug
 This test checks the functionality of the `Debug` core class, namely using the debug level feature.
 
-### Translatable
-This test checks the functionality of the `Translatable` core class, namely loading and executing translations.
+### Translate
+This test checks the functionality of the `Translate` core class, namely loading and executing translations.
 
