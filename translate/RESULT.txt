@@ -1,7 +1,9 @@
 string(5) "de_DE"
+bool(true)
+bool(true)
+bool(true)
+string(24) "Das ist ein Platzhalter."
 string(5) "en_US"
-bool(true)
-bool(true)
 string(21) "test1: this is a test"
 string(28) "test1: this is a second test"
 string(21) "test2: this is a test"
