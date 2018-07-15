@@ -24,7 +24,7 @@
   var_dump($content->set("name",  "Testname"));
   var_dump($content->set("text", "Testtext"));
 
-  var_dump($content->get("title"));
-  var_dump($content->get("name"));
-  var_dump($content->get("text"));
+  var_dump(value($content, "title"));
+  var_dump(value($content, "name"));
+  var_dump(value($content, "text"));
 
