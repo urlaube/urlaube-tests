@@ -11,11 +11,10 @@
   require_once(SYSTEM_PATH."system.php");
   require_once(SYSTEM_PATH."user.php");
 
-  require_once(SYSTEM_PATH."constants.php");
-  require_once(SYSTEM_PATH."defaults.php");
+  require_once(SYSTEM_PATH."static.php");
+  require_once(SYSTEM_PATH."derived.php");
 
-  require_once(SYSTEM_CORE_PATH."Base.class.php");
-  require_once(SYSTEM_CORE_PATH."Debug.class.php");
+  require_once(SYSTEM_CORE_PATH."BaseSingleton.class.php");
   require_once(SYSTEM_CORE_PATH."Content.class.php");
 
   $content = new Content();
@@ -27,4 +26,3 @@
   var_dump(value($content, "title"));
   var_dump(value($content, "name"));
   var_dump(value($content, "text"));
-

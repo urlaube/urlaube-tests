@@ -1,4 +1,0 @@
-NULL
-NULL
-string(5) "hallo"
-string(4) "welt"
